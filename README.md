@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Liam
-- 📫 How to reach me:
+# 👋 Hi, I’m Liam...
+and I am a person who is facinated by computers
+
+## 📫 How to reach me:
 
 Discord: Liam_#9487
 
