@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Liam...
-and I am a person who is facinated by computers
+and I am someone who is facinated by Tech and Computers.. stuff like that.
 
 ## 📫 How to reach me:
 
-Email: liam@liambunch.com
+Telegram: [Liam8444](https://t.me/liam8444)
 
+Email: liam@liambunch.com
 
 <!---
 
