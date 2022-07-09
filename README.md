@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Liam...
-and I am someone who is facinated by Tech and Computers.. stuff like that.
+and I am someone who is fascinated by Tech and Computers.. stuff like that.
 
 ## 📫 How to reach me:
 
