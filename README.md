@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liambunch&show_icons=true&theme=synthwave&locale=en" alt="liambunch" /></p>
 
-<a href="https://app.daily.dev/liambunch"><img src="https://api.daily.dev/devcards/v2/SgQ39jrFO3uCre3Krxirs.png?r=sm1&type=wide" width="652" alt="Liam Bunch's Dev Card"/></a>
-
 <!--
 **liambunch/liambunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
