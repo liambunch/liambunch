@@ -4,7 +4,7 @@
 ---
 
 ## My Projects:
-Not much yet, unfortunately.
+I am working on a few projects at the moment, but they aren't public yet.
  
 ## About me:
 - I use Arch btw
