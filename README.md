@@ -1,6 +1,6 @@
 # Hi, I'm Liam 👋
 
-I go by **Watire** online. I'm Nix-pilled, IT-pilled, and Sway-pilled, among many other pills.
+I go by **Watire** online. I'm Nix-pilled, k8s-pilled, and Sway-pilled, among many other pills.
 
 I work in IT support by day, and self-host and run far more servers than I actually need by night.
 
