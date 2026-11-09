@@ -2,8 +2,6 @@
 
 I go by **Watire** online. I'm Nix-pilled, k8s-pilled, and Sway-pilled, among many other pills.
 
-I work in IT support by day, and self-host and run far more servers than I actually need by night.
-
 ## 🛠️ What I'm working on
 
 - **Hosting Cluster**: six old HP machines running NixOS and k3s on their own isolated network, with a NixOS gateway doing the routing.
@@ -28,9 +26,6 @@ I work in IT support by day, and self-host and run far more servers than I actua
 ## 📚 Currently studying
 - **Certificate IV in Information Technology** - Australian College of Commerce and Management
 - **Diploma of Information Technology** - TAFE NSW
-
-## 📫 Say hi
-Feel free to poke around my repos, or open an issue if you spot something broken.
 
 <!--
 ## Hi there 👋
